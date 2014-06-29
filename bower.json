@@ -1,0 +1,14 @@
+{
+  "name": "notee",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "git://github.com/jrburke/requirejs-bower.git#~2.1.14"
+  }
+}
