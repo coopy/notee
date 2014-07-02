@@ -9,6 +9,5 @@
     "tests"
   ],
   "dependencies": {
-    "requirejs": "git://github.com/jrburke/requirejs-bower.git#~2.1.14"
   }
 }
